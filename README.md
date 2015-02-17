@@ -1,4 +1,4 @@
-# SocialHub
+# TP_Project
 
 Radoslav Kostadinov, Kamena Dacheva, Elena Karakoleva
 
