@@ -1,0 +1,5 @@
+First Milestone
+0.Select a project name
+1.Select Framework
+2.Make a simple web application
+3.Have a basic view of the social media APIs
